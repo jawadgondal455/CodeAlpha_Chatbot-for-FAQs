@@ -1,7 +1,7 @@
-"""
-chatbot_gui.py
-Simple Tkinter chat interface for the FAQ chatbot.
-"""
+    
+  #  chatbot_gui.py
+  # Simple Tkinter chat interface for the FAQ chatbot.
+
 
 import tkinter as tk
 from tkinter import scrolledtext
