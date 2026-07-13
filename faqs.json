@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the admission deadline for this semester?",
+    "answer": "Admissions close on the 15th of the month before semester start. Check the portal for exact dates."
+  },
+  {
+    "question": "How can I reset my student portal password?",
+    "answer": "Go to the portal login page, click 'Forgot Password', and follow the email verification steps."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "answer": "You need your CNIC/B-Form, previous transcripts, two photographs, and the application form."
+  },
+  {
+    "question": "How do I pay my semester fee?",
+    "answer": "Fees can be paid via bank challan, online banking, or the university's payment gateway."
+  },
+  {
+    "question": "Is there a scholarship program available?",
+    "answer": "Yes, merit and need-based scholarships are available. Apply through the Financial Aid Office."
+  },
+  {
+    "question": "How can I contact my academic advisor?",
+    "answer": "You can email your advisor directly or book a slot through the student portal's advising tab."
+  },
+  {
+    "question": "What is the minimum CGPA to avoid probation?",
+    "answer": "Students must maintain a CGPA of at least 2.0 to remain in good academic standing."
+  },
+  {
+    "question": "How do I apply for a transcript?",
+    "answer": "Submit a transcript request form at the Registrar's Office along with the required fee."
+  },
+  {
+    "question": "Can I change my major after enrollment?",
+    "answer": "Yes, major change requests are accepted within the first two semesters, subject to approval."
+  },
+  {
+    "question": "What is the process for course withdrawal?",
+    "answer": "Withdraw through the student portal before the deadline; a 'W' grade will appear on your transcript."
+  }
+]
